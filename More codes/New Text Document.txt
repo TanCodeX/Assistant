@@ -1,0 +1,2 @@
+elif 'who is neha' in query:
+            speak("she sits infront of you in your class, and she is very cute")
